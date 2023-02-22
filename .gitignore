@@ -2,3 +2,4 @@
 .DS_Store
 *.code-workspace
 tutoPyTorch/data/*
+project/data/*
